@@ -4,7 +4,9 @@ Tutorats des M1
 ### CONTENU :
 
 index.html : html correspondant au site internet https://bros-bioinfo.github.io/tutorats/
+
 index.css : CSS appelé par index.html
+
 M1.jpg : image utilisée en tant que bannière du site internet
 
 dossier TUTORAT1 : contient les fichiers utilisés pour le Tutorat 1 portant sur Bash & Python
