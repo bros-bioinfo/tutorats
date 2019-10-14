@@ -24,3 +24,16 @@ Tutorats des M1
         * tauxgaz.csv : fichier CSV à traiter pour l'exercice 1
         * sentinelle_2017.csv : fichier CSV à traiter pour l'exercice 2
         * plantevers.csv : fichier CSV à traiter pour l'exercice 3
+        
+ * dossier TUTORAT3 : Contient un PDF avec les bases pour l'utilisation de LateX pour un rapport.
+      * Qu'est-ce que LateX ?
+      * Manipulations de bases pour un rapport
+      * La première page de présentation
+      * Sommaire et sections
+      * Manipulation de texte
+      * Importation d'image et manipulations
+      * Création de tableau
+      * Création de listings et d'hyperlien
+      * Insertion de code formaté
+      * Réalisation d'équation
+      * Création d'une Bibliographie
